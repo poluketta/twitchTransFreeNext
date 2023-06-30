@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = 'translator_honyaku'
 
-Trans_Username          = 'trans_user_name'
-Trans_OAUTH             = 'oauth_for_trans_user'
+Trans_Username          = 'translator_honyaku'
+Trans_OAUTH             = 'oauth:4a562mqyiooatxcbyh3moyuad09izt'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
